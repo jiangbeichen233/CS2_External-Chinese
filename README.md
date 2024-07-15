@@ -1,59 +1,47 @@
-# CS2_External
-CS2 external cheat.
+CS2外部作弊。
 
+新闻：出售CS2外部静默瞄准辅助（仅提供静默瞄准辅助的cpp源码和.ct文件），适用于敌人视角、观战和录像。
 
+如果您需要，请联系我：
 
- New:  Selling CS2 external silent aimbot (only cpp source of silent aimbot & .ct), effective for enemy perspective, spectating, and recording.
+https://discordapp.com/users/814903053634502746
 
- If you need it, please contact me:
- 
- https://discordapp.com/users/814903053634502746
+livkaze@gmail.com 1319923129@qq.com
 
- livkaze@gmail.com
- 1319923129@qq.com 
+ImGui库 -> OS-ImGui
+衍生项目
+AimStar -> AimStar（由CowNow制作。）
+Aeonix -> Aeonix（由Fr0go1制作。）
+注意事项
+此源码仅用于学习如何系统地编写一个简单的CS2外部辅助程序。
 
-## ImGui library -> [OS-ImGui](https://github.com/TKazer/OS-ImGui)
+这个源码仅供学习如何系统地编写一套CS2外部辅助程序。
 
-## Derivative projects
-1. AimStar -> [AimStar](https://github.com/CowNowK/AimStar) (By CowNow.)
-2. Aeonix -> [Aeonix](https://github.com/Fr0go1/Aeonix-Cs2) (By Fr0go1.)
+以后的偏移量将不再提供更新，请自行更新。
 
-## NOTICE
+功能
+BoneESP
 
-This source just used to study how to code a simple CS2 external hack systematically.
+BoxESP
 
-这个源码仅供学习如何系统的写一套CS2外部辅助程序。
+瞄准辅助（带有rcs）
 
-The offsets will not be updated in the future, please update it by self.
+EyeLine
 
-后续偏移数据将不在提供更新，请自行更新。
+自动更新偏移量
 
-<img src="https://github.com/TKazer/CS2_External/blob/master/Image2.png" width="1200" />
+武器ESP
 
-## Functions
+雷达
 
-> 1. BoneESP
->
-> 2. BoxESP
->
-> 3. AimBot (With rcs)
->
-> 4. EyeLine
->
-> 5. Auto update offsets
->
-> 6. weaponESP
->
-> 7. Radar
->
-> 8. TriggerBot
->
-> 9. HeadShoot Line
->
-> 10. Fov Line
->
-> 11. Visibility Check
->
-> 12. OBS Bypass
->
-> 13. Bhop
+触发辅助
+
+爆头线
+
+Fov线
+
+可见性检查
+
+OBS绕过
+
+Bhop
